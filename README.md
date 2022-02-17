@@ -8,6 +8,10 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&logo=nestjs&labelColor=242d2d&logoColor=white&color=242d2d&label=%20" />
   </div>
 </p>
+
+<p>
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=code-meter&theme=react&bg_color=242d2d&title_color=white&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+</p>
 <!--
 **wavilikhin/wavilikhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
