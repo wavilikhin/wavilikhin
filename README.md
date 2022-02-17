@@ -10,7 +10,7 @@
 </p>
 
 <p align='left'>
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=code-meter&theme=react&bg_color=242d2d&title_color=white&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=code-meter&theme=react&bg_color=white&title_color=454545&icon_color=F8D866&hide_border=false&show_icons=false" alt="github-readme-streak-stats">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=time-tracker-front&theme=react&bg_color=242d2d&title_color=white&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=time-tracker-back&theme=react&bg_color=242d2d&title_color=white&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=top-courses-ui&theme=react&bg_color=242d2d&title_color=white&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
