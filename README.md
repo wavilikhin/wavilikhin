@@ -31,7 +31,7 @@
 
 
 
-[<img alt="Linkedin" align='left' src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&logo=linkedin&labelColor=blue&logoColor=white&color=blue&label=%20" />](https://www.linkedin.com/in/vladislav-vavilikhin-12b94a199/)
-[<img alt="Twitter" align='center' src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/wavilikhin)
-[<img alt="Telegram" align='right' src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&logo=telegram&labelColor=blue&logoColor=white&color=blue&label=%20" />](https://www.t.me/wavilikhin)
+[<img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&logo=linkedin&labelColor=blue&logoColor=white&color=blue&label=%20" />](https://www.linkedin.com/in/vladislav-vavilikhin-12b94a199/)
+[<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/wavilikhin)
+[<img alt="Telegram" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&logo=telegram&labelColor=blue&logoColor=white&color=blue&label=%20" />](https://www.t.me/wavilikhin)
 
