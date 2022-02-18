@@ -19,8 +19,10 @@
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=blog&theme=react&bg_color=white&title_color=336fe0&icon_color=F8D866&show_icons=false&border_color=454545&text_color=454545" alt="github-readme-streak-stats">
 </p>
 
+<p align='center'>
+<img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=wavilikhin&theme=github-light" alt="github-streak-stats"/>    
+</p>
 
-<img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=wavilikhin&theme=github-light" alt="github-streak-stats"/>
 
 <!-- 
 <p align='left'>
