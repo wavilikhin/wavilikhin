@@ -20,7 +20,7 @@
 </p>
 
 <a align='center' href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wavilikhin&theme=github-light" alt="github-streak-stats"/>
+    <img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=wavilikhin&theme=github-light" alt="github-streak-stats"/>
 </a>
 
 <!-- 
