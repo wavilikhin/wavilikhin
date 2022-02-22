@@ -29,23 +29,6 @@
     <a href="https://github.com/wavilikhin/blog">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=blog&theme=react&bg_color=white&title_color=336fe0&icon_color=F8D866&show_icons=false&border_color=454545&text_color=454545" alt="github-readme-streak-stats">
     </a>
-<!--     
-
-    <a href="https://github.com/wavilikhin/time-tracker-back">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=time-tracker-back&theme=react&bg_color=white&title_color=336fe0&icon_color=F8D866&show_icons=false&border_color=454545&text_color=454545" alt="github-readme-streak-stats">
-    </a>
-
-    <a href="https://github.com/wavilikhin/top-courses-ui">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=top-courses-ui&theme=react&bg_color=white&title_color=336fe0&icon_color=F8D866&show_icons=false&border_color=454545&text_color=454545" alt="github-readme-streak-stats">
-    </a>
-    
-    <a href="https://github.com/wavilikhin/top-courses-api">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=top-courses-api&theme=react&bg_color=white&title_color=336fe0&icon_color=F8D866&show_icons=false&border_color=454545&text_color=454545" alt="github-readme-streak-stats">
-    </a>
-    
-    <a href="https://github.com/wavilikhin/blog">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=blog&theme=react&bg_color=white&title_color=336fe0&icon_color=F8D866&show_icons=false&border_color=454545&text_color=454545" alt="github-readme-streak-stats">
-    </a> -->
 </p>
 
 <p align='center'>
