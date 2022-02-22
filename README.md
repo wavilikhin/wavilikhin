@@ -17,8 +17,11 @@
     <a href="https://github.com/wavilikhin/time-tracker-front">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=time-tracker-front&theme=react&bg_color=white&title_color=336fe0&icon_color=F8D866&show_icons=false&border_color=454545&text_color=454545" alt="github-readme-streak-stats">
     </a>
-    <a href="https://github.com/wavilikhin/code-meter">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=code-meter&theme=react&bg_color=white&title_color=336fe0&icon_color=F8D866&border_radius=5&border_color=454545&text_color=454545&show_icons=false" alt="github-readme-streak-stats">
+    <a href="https://github.com/wavilikhin/time-tracker-back">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=time-tracker-back&theme=react&bg_color=white&title_color=336fe0&icon_color=F8D866&show_icons=false&border_color=454545&text_color=454545" alt="github-readme-streak-stats">
+    </a>
+    <a href="https://github.com/wavilikhin/top-courses-ui">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=top-courses-ui&theme=react&bg_color=white&title_color=336fe0&icon_color=F8D866&show_icons=false&border_color=454545&text_color=454545" alt="github-readme-streak-stats">
     </a>
     <a href="https://github.com/wavilikhin/code-meter">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=code-meter&theme=react&bg_color=white&title_color=336fe0&icon_color=F8D866&border_radius=5&border_color=454545&text_color=454545&show_icons=false" alt="github-readme-streak-stats">
@@ -26,12 +29,7 @@
     <a href="https://github.com/wavilikhin/code-meter">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=code-meter&theme=react&bg_color=white&title_color=336fe0&icon_color=F8D866&border_radius=5&border_color=454545&text_color=454545&show_icons=false" alt="github-readme-streak-stats">
     </a>
-    <a href="https://github.com/wavilikhin/code-meter">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=code-meter&theme=react&bg_color=white&title_color=336fe0&icon_color=F8D866&border_radius=5&border_color=454545&text_color=454545&show_icons=false" alt="github-readme-streak-stats">
-    </a>
-<!--     <a href="https://github.com/wavilikhin/time-tracker-front">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=time-tracker-front&theme=react&bg_color=white&title_color=336fe0&icon_color=F8D866&show_icons=false&border_color=454545&text_color=454545" alt="github-readme-streak-stats">
-    </a>
+<!--     
 
     <a href="https://github.com/wavilikhin/time-tracker-back">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=time-tracker-back&theme=react&bg_color=white&title_color=336fe0&icon_color=F8D866&show_icons=false&border_color=454545&text_color=454545" alt="github-readme-streak-stats">
