@@ -31,28 +31,27 @@
     </a>
 </p>
 
-<p align='center'>
-<img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=wavilikhin&theme=github-light" alt="github-streak-stats"/>    
-</p>
-
-
+<!-- Streak stats -->
+<!-- <p align='center'>
+    <img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=wavilikhin&theme=github-light" alt="github-streak-stats"/>    
+</p> -->
+<!-- /Streak stats -->
 
 <p align='left'>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wavilikhin&show_icons=true&include_all_commits=true&hide_border=true&theme=github_light" alt="My github stats" /> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wavilikhin&layout=compact&hide_border=true&theme=github_light" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wavilikhin&show_icons=true&include_all_commits=true&hide_border=true&theme=github_light" alt="My github stats" /> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wavilikhin&layout=compact&hide_border=true&theme=github_light" />
 <p/> 
 
-
-
+<!-- Socials -->
 <p align='center'>
     <a href="https://www.linkedin.com/in/vladislav-vavilikhin-12b94a199/">
-    <img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&logo=linkedin&labelColor=blue&logoColor=white&color=blue&label=%20" />
-</a>
-<a href="https://www.t.me/wavilikhin">
-    <img alt="Telegram" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&logo=telegram&labelColor=blue&logoColor=white&color=blue&label=%20" />
-</a>
-<a href="https://twitter.com/wavilikhin">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+        <img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&logo=linkedin&labelColor=blue&logoColor=white&color=blue&label=%20" />
+    </a>
+    <a href="https://www.t.me/wavilikhin">
+        <img alt="Telegram" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&logo=telegram&labelColor=blue&logoColor=white&color=blue&label=%20" />
+    </a>
+    <a href="https://twitter.com/wavilikhin">
+        <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
 </p>
+<!-- /Socials -->
