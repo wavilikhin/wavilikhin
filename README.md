@@ -1,3 +1,10 @@
+<style>
+    a:hover {
+        text-decoration:none;
+        border-bottom: none;
+    }
+</style>
+
 <h2 align='center' color='#25292e'>Problem solving/making fullstack web developer</h2>
 <p align='center'>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=242d2d" />
@@ -11,7 +18,7 @@
 </p>
 
 <p align='left'>
-    <a href="https://github.com/wavilikhin/code-meter" onMouseOver="this.style['text-decoration'].underline='none'">
+    <a href="https://github.com/wavilikhin/code-meter">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=code-meter&theme=react&bg_color=white&title_color=336fe0&icon_color=F8D866&border_radius=5&border_color=454545&text_color=454545&show_icons=false" alt="github-readme-streak-stats">
     </a>
     <a href="https://github.com/wavilikhin/time-tracker-front">
