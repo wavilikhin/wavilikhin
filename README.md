@@ -1,12 +1,13 @@
 <h2 align='center'>Problem <b>solving</b>/<i>making</i> fullstack web developer</h2>
 <p align='center'>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=242d2d" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=242d2d" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=242d2d" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=242d2d" />
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&color=242d2d" /> 
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=242d2d" />
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&logo=nestjs&labelColor=242d2d&logoColor=white&color=242d2d&label=%20" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=blue&labelColor=blue" />
+<!--     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=242d2d&color=blue&labelColor=blue" /> -->
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=blue&labelColor=blue" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&color=blue&labelColor=blue" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=blue&labelColor=blue" />
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&color=blue&labelColor=blue" /> 
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=blue&labelColor=blue" />
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&logo=nestjs&labelColor=242d2d&logoColor=white&color=blue&labelColor=blue&label=%20" />
   </div>
 </p>
 
@@ -43,7 +44,7 @@
 <p align='center'>
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/vladislav-vavilikhin-12b94a199/">
-        <img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&logo=linkedin&labelColor=blue&logoColor=white&color=blue&label=%20" />
+        <img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&logo=linkedin&labelColor=blue&logoColor=white&color=blue&label=%20&" />
     </a>
     <!-- /LinkedIn -->
     <!-- Telegram -->
@@ -53,7 +54,7 @@
     <!-- /Telegram -->
     <!-- Twitter -->
     <a href="https://twitter.com/wavilikhin">
-        <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+        <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=blue&labelColor=blue" />
     </a>
     <!-- /Twitter -->
 </p>
