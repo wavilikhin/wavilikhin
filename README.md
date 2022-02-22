@@ -41,10 +41,10 @@
     <!-- Stats --> 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=wavilikhin&show_icons=true&include_all_commits=true&hide_border=true&theme=github_light" alt="My github stats" /> 
     <!-- /Stats -->
-    
-    <!-- Languages stats -->
+
+    <!-- Langs stats -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wavilikhin&layout=compact&hide_border=true&theme=github_light" />
-    <!-- /Languages stats -->
+    <!-- /Langs stats -->
 <p/> 
 
 <!-- Socials -->
