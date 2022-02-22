@@ -1,10 +1,3 @@
-<style>
-    a:hover {
-        text-decoration:none;
-        border-bottom: none;
-    }
-</style>
-
 <h2 align='center' color='#25292e'>Problem solving/making fullstack web developer</h2>
 <p align='center'>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=242d2d" />
