@@ -37,7 +37,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=wavilikhin&show_icons=true&include_all_commits=true&hide_border=true&theme=github_light" alt="My github stats" /> 
     <!-- /Stats -->
     <!-- Langs stats -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wavilikhin&layout=compact&hide_border=true&theme=github_light" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wavilikhin&hide_border=true&theme=github_light" />
     <!-- /Langs stats -->
 <p/> 
 <!-- Socials -->
