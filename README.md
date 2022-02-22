@@ -41,6 +41,7 @@
     <!-- /Stats -->
 <p/> 
 <!-- Socials -->
+<p align='center'>I'm not considering new offers at the moment, but anyway here are my socials ⤦</p>
 <p align='center'>
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/vladislav-vavilikhin-12b94a199/">
