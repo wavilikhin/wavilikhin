@@ -1,4 +1,4 @@
-<h2 align='center'>Problem <b color='blue'>solving</b>/<i>making</i> fullstack web developer</h2>
+<h2 align='center'>Problem <b>solving</b>/<i>making</i> fullstack web developer</h2>
 <p align='center'>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=242d2d" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=242d2d" />
