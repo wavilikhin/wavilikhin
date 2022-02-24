@@ -32,14 +32,6 @@
     </a>
 </p>
 
-<p align='left'>
-    <!-- Langs stats -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wavilikhin&hide_border=true&theme=github_light" />
-    <!-- /Langs stats -->
-    <!-- Stats --> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wavilikhin&show_icons=true&include_all_commits=true&hide_border=true&theme=github_light" alt="My github stats" /> 
-    <!-- /Stats -->
-<p/> 
 <!-- Socials -->
 <p align='center'>I'm not considering new offers at the moment, but always open to conversation ⤦</p>
 <p align='center'>
