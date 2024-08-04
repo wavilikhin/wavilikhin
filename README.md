@@ -1,5 +1,5 @@
 <h2 align='center'>Problem <b>solving</b>/<i>making</i> fullstack web developer</h2>
-<p align='center'>
+<!-- <p align='center'>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=blue&labelColor=blue" />
 <!--     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=242d2d&color=blue&labelColor=blue" /> -->
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=blue&labelColor=blue" />
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&logo=nestjs&labelColor=242d2d&logoColor=white&color=blue&labelColor=blue&label=%20" />
   </div>
 </p>
-
+ -->
 <p align='left'>
     <a href="https://github.com/wavilikhin/code-meter">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wavilikhin&repo=code-meter&theme=react&bg_color=white&title_color=336fe0&icon_color=F8D866&border_radius=5&border_color=454545&text_color=454545&show_icons=false" alt="github-readme-streak-stats">
